@@ -1,7 +1,7 @@
 # Hi there, I'm Artem Lisovskyi 👋
 
 
-## Android & Web Developer from Kharkiv, Ukraine 👨‍💻
+## Web & Android Developer from Kharkiv, Ukraine 👨‍💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artem-lisovskyi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemlis2703@gmail.com)
